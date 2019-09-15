@@ -1,3 +1,5 @@
+const R = require("ramda");
+
 const products = [
   { name: "Jacket", price: 50, category: "clothes", count: 20 },
   { name: "Boots", price: 120, category: "clothes", count: 30 },
